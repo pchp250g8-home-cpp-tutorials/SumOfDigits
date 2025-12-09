@@ -17,7 +17,7 @@ int main()
         iSumDigits += iVal % 10;
         iVal /= 10;
     }
-    std::cout << "The number " << iNum << " has " << iSumDigits << " digit(s)\r\n";
+    std::cout << "The sum of digits of the number " << iNum << " is " << iSumDigits << "\r\n";
     std::cin.ignore();
     std::cin.get();
 }
