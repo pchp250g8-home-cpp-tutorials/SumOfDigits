@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="SumOfDigits/SumOfDigits.vcxproj" />
+  <Project Path="SumOfDigits/SumOfDigits.vcxproj" Id="e76c3160-cec3-4229-a32b-97a0c7a84757" />
 </Solution>
